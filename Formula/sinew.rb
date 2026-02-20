@@ -1,8 +1,8 @@
 class Sinew < Formula
   desc "macOS menu bar replacement with notch-aware layouts and hot-reload config"
   homepage "https://github.com/dungle-scrubs/sinew"
-  url "https://github.com/dungle-scrubs/sinew/archive/refs/tags/v0.3.3.tar.gz"
-  sha256 "c7c8600191420e0ce39ca86b0993f4633154436d8f0eae3f75f6cc3ad6b991e7"
+  url "https://github.com/dungle-scrubs/sinew/archive/refs/tags/v0.3.4.tar.gz"
+  sha256 "4903d0b060ea00eb7c0f7963aa660cce70caf6e1aca42e06f6637e0d27b0879d"
   license "MIT"
 
   depends_on :macos
